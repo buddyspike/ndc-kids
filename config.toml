@@ -7,3 +7,4 @@ canonifyurls    = true
 [params]
   name = "Dillon"
   description = "Slides for NDC Sydney 2017 - Kids"
+  custom_css = ["custom.css"]
